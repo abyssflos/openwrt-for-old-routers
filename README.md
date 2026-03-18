@@ -4,3 +4,4 @@
 ## 目前支持:
 mi r4ac（小米4A百兆版）：公版50000起始偏移量fireware分区
 <br>cisco MR42（思科MR42 AP）：主打正常AP功能，加入了统计、抓包、网络测试功能
+<br>Qihoo 360v6：集成了QOS、FTP、流统、wireguard、upnp、turboacc等功能，主打家庭网关功能
